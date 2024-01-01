@@ -1,4 +1,5 @@
 # The_Information_Lab
+![Alt text]([https://example.com/path/to/your/image.png](https://lh3.googleusercontent.com/p/AF1QipP9zfzWpMI8uOQ_TEbYIL4SC9ry0WoPASY7CsrQ=s1360-w1360-h1020))
 
 Repository created to upload the assigment asked by The Information Lab. 
 
